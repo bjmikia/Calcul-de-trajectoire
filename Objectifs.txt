@@ -1,0 +1,28 @@
+Objectifs :
+
+ ~ Pouvoir jouer seul
+ * Montrer le jeu avec l'algo qui tourne (solution)
+-> Affichage graphique
+ * Nb de coups minimaux
+ ~ Mettre l'Algo pour les objets
+ ~ Objets aléatoire
+
+Options :
+
+-> Ajout de bots
+-> Vitesse nulle à l'arrivée (2 modes de jeu diff)
+ * Algo pour la vitesse nulle
+
+
+Réalisés :
+-> Montrer le jeu avec l'algo qui tourne (solution)
+-> Nb de coups minimaux
+-> Algo pour la vitesse nulle
+
+
+En cours :
+-> A* (Ugo)
+-> Pouvoir jouer seul (Aurelie)
+-> Mettre l'Algo pour les objets (Benidy)
+-> Objets aléatoire (Benidy)
+
