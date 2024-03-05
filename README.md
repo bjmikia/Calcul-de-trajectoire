@@ -1,8 +1,6 @@
 # Calcul de trajectoire 
 
-Circuit 3
 
-Projet informatique (PI4)
 
 ## Présentation
 
